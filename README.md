@@ -1,1 +1,1 @@
-# Learn-Blockchain-in-3-months
+# Learn Blockchain in 3 months
