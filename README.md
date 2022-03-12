@@ -8,3 +8,7 @@
 
 ## Week 1 (Cryptography):
 - https://www.coursera.org/learn/crypto
+
+## Week 2 (Bitcoin and Cryptocurrencies + build a blockchain)
+- https://www.coursera.org/learn/cryptocurrency
+- https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
