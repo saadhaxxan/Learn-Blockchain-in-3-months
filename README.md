@@ -17,12 +17,14 @@
 - https://www.youtube.com/watch?v=NqGe942J4Y0 (Solidity)
 - https://www.youtube.com/watch?v=-_Qs0XdPpw8 (Etherum)
 
-## Week 7-8 (Smart Contracts)
+## Week 7-8 (Smart Contracts in Ethereum)
 - https://www.youtube.com/watch?v=M576WGiDBdQ
 
 ## Week 9-10 (Other cryptocurrencies)
-- https://www.youtube.com/watch?v=cjbHqvr4ffo
+- https://www.youtube.com/watch?v=cjbHqvr4ffo&list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
 
+## Week 11 (Intro to Solana and Rust)
+- https://www.youtube.com/watch?v=gA7hFdq2h9Q
 
 ## Week 12 (NFTs)
 - https://www.youtube.com/watch?v=2bjVWclBD_s
