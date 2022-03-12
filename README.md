@@ -15,7 +15,7 @@
 
 ## Week 5-6 (Ethereum and Solidity)
 - https://www.youtube.com/watch?v=NqGe942J4Y0 (Solidity)
-- https://www.youtube.com/watch?v=-_Qs0XdPpw8 (Etherum)
+- https://www.youtube.com/watch?v=-_Qs0XdPpw8 (Ethereum)
 
 ## Week 7-8 (Smart Contracts in Ethereum)
 - https://www.youtube.com/watch?v=M576WGiDBdQ
