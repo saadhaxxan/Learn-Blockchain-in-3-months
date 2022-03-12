@@ -17,6 +17,12 @@
 - https://www.youtube.com/watch?v=NqGe942J4Y0 (Solidity)
 - https://www.youtube.com/watch?v=-_Qs0XdPpw8 (Etherum)
 
+## Week 7-8 (Smart Contracts)
+- https://www.youtube.com/watch?v=M576WGiDBdQ
+
+## Week 9-10 (Other cryptocurrencies)
+- https://www.youtube.com/watch?v=cjbHqvr4ffo
+
 
 ## Week 12 (NFTs)
 - https://www.youtube.com/watch?v=2bjVWclBD_s
